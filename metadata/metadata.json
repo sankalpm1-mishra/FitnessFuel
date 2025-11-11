@@ -22,7 +22,7 @@
         "ReleaseNotes": "Updated using Github actions",
         "Images": [
           {
-            "FileName": "Screenshot1.png",
+            "FileName": "Screenshot.png",
             "FileStatus": "Uploaded",
             "Id": "1152922700019982211",
             "ImageType": "Screenshot"
